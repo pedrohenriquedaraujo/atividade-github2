@@ -1,5 +1,3 @@
-segundo texto
+texto 2
 
 adicionei o texto no segundo arquivo
-
-
